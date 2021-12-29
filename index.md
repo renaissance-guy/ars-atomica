@@ -14,3 +14,11 @@ A tsunami of arcane power radiated from where it all started, Des Moines, circli
 It's been 25 years since the bombs fell and the world changed. The survivors exist in suspicious enclaves, as nomadic tribes and scavengers, as bandits and warlords. Dangerous and altered men walk the wastes, prey, and are preyed upon. Isolated pockets of the previous order still exist in protected valleys, bunkers, and strongholds. Vast stretches of land are blighted, poisoned by arcane and atomic. Mutated creatures roam the wilderness seeking survival and their next meal. Artifacts imbued with power lie in wait for the brave, the hardy, or the foolish to find in ruined cities and towns.
 
 You are a walker of the waste, a scavenger of the scrap, using mind, muscle, and magic to thrive where others have merely survived.
+
+## License
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License [CC BY-SA 4.0][license-url].
+
+<!-- links and whatnot -->
+
+[license-url]: http://creativecommons.org/licenses/by-sa/4.0/

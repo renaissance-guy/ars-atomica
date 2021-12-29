@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Special+Elite&display=swap');
+
+* {
+  font-family: 'Lora', serif;
+}
+
+a { 
+  color: #a52a2a;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  background-color: #ffffff;
+  color: #1a1921;
+  margin: 60px auto;
+  width: 1080px;
+}
+
+header {
+  margin-bottom: 3em;
+}
+
+h1 {
+  font-family: 'Fredericka the Great', serif;
+  font-variant: small-caps;
+  font-size: 3em;
+  border-bottom: 2px solid #7f7f7f;
+}
+
+h2 {
+  font-family: 'Special Elite', serif;
+  font-variant: small-caps;
+  font-size: 2em;
+}
+
+h3 {
+  font-family: 'Special Elite', serif;
+  font-variant: small-caps;
+  font-size: 1.5em;
+}
+
+p strong:only-child {
+  font-size: 1.3em;
+  font-style: italic;
+}
+
+p, li {
+  font-size: 1.2em;
+}
+
+p {
+  text-align: justify;
+}
