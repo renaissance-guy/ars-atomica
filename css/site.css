@@ -23,7 +23,10 @@ body {
 }
 
 header {
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 3em;
+  width: 762px;
 }
 
 h1 {
